@@ -1,6 +1,6 @@
 # Author: Chloe Baker
 # GitHub username: bakerc27_max
-# Date: 05/01/2026
+# Date: 05/13/2026
 # Description: Creates and returns a list of prime numbers up to a provided limit
 
 def list_of_primes_up_to(limit=100):
